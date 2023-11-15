@@ -16,7 +16,8 @@ import_tables:
   - cn_dicts/xavier
   - cn_dicts/chengdu.sogou
   - cn_dicts/qigong.sogou
-
+  - cn_dicts/sc_cq.sogou
+  - cn_dicts/sn_sh.sogou
 ...
 
 # 按需启用：
